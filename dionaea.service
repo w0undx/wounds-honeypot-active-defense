@@ -1,0 +1,14 @@
+[Unit]
+Description=Dionaea Honeypot
+After=network.target
+
+[Service]
+Type=simple
+User=root
+ExecStart=/opt/dionaea/bin/dionaea -c /opt/dionaea/etc/dionaea/dionaea.cfg
+Environment="PYTHONPATH=/opt/dionaea/lib/dionaea/python"
+Restart=always
+RestartSec=10
+
+[Install]
+WantedBy=multi-user.target
