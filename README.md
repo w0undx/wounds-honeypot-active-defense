@@ -15,7 +15,9 @@ WOUNDS is a custom-built Security Operations Center (SOC) environment designed t
 ## 📊 Visual Intelligence
    
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/73f1a48e-c868-4957-97c5-47d0f4c06ab4" width="32%" alt="Dashboard Overview" />
+  <img src="https://github.com/user-attachments/assets/73f1a48e-c868-4957-97c5-47d0f4c06ab4" width="32%" alt="Image 1" />
+   <img src="https://github.com/user-attachments/assets/b852bbdd-5502-4fbd-8e8f-98e4c6ebb0f3" width="32%" alt="Image 2" />
+   <img src="https://github.com/user-attachments/assets/aedda8c4-6cf5-43bc-b084-8b38945f1348" width="32%" alt="Image 3" />
 </p>
 
 ## 🏗️ Architecture & Core Components
